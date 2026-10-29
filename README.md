@@ -56,7 +56,7 @@ In this project, the model uses information such as study hours, sleep hours, at
 ---
 
 ## Screenshots
-
+![Plot Preview](actual_vs_predicted_score.PNG)
 
 
 ---
